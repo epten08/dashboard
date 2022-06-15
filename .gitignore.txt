@@ -1,0 +1,5 @@
+#folders
+boot
+
+db.sqlite3
+.sass-cache
